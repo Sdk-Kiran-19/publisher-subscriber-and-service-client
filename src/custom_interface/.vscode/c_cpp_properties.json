@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kiran/ros2_workspace/install/tutorial_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/kiran/ros2_workspace/src/custom_interface/include/**",
+        "/home/kiran/ros2_workspace/src/tutorial_interfaces/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
